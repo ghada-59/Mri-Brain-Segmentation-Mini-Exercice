@@ -1,0 +1,19 @@
+# Python / Environnements virtuels
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# IDE et Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Résultats générés
+outputs/*.png
+outputs/*.jpg
+
+# Fichiers système
+.DS_Store
+Thumbs.db
