@@ -101,11 +101,3 @@ Upon successful execution, figures are saved automatically into the `outputs/` d
 | **`histograms_results.png`** | Intensity frequency distributions overlaying threshold markers ($t_{\text{Otsu}}$, $P_{33}$, $P_{66}$). |
 
 ---
-
-## 📜 License & Citation
-
-Distributed under the MIT License. Data provided via `scikit-image` medical image benchmark datasets (`skimage.data.brain`).
-
-```
-
----
